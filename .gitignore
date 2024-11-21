@@ -1,0 +1,18 @@
+# Ignorer les fichiers de configuration sensibles
+.env
+.env.local
+.env.*.local
+
+# Ignorer les fichiers d'IDE
+.vscode/
+.idea/
+
+# Ignorer les dossiers de cache Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers logs
+*.log
+
+# Ignorer les dossiers de dépendances locales
+venv/
